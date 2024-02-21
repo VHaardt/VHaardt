@@ -1,4 +1,4 @@
-# VHaardt 
+<img src="https://github.com/VHaardt/vhaardt/master/banner.png" alt="banner that say profile name">
 
 **`MSc in Data Science student`** 
 
