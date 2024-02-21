@@ -1,16 +1,22 @@
-### Hi there 👋
+# VHaardt 
 
-<!--
-**VHaardt/VHaardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`MSc in Data Science student`** 
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-VittorioHaardt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vittorio-haardt-4091211b3)](www.linkedin.com/in/vittorio-haardt-4091211b3)
+[![Gmail Badge](https://img.shields.io/badge/-vittoriohaardt@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vittoriohaardt@gmail.com)](mailto:vittoriohaardt@gmail.com)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Vittorio! As a statistics graduate and data science student, I am passionate about data and I am eager to deepen my knowledge in areas such as Machine Learning and Artificial Intelligence, with a particular focus on Computer Vision. I am seeking roles such as data scientist or machine learning engineer to pursue this passion.
+---
+
+- 🔭 I’m currently working on my thesis on **shadow removal**
+- 🌱 I’m currently finishing my master degree
+  
+---
+### 🧰 Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,pytorch,tensorflow,opencv,matlab,mongodb,mysql,github" />
+  </a>
+</p>
