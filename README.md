@@ -5,7 +5,7 @@
 ---
 
 
-**`MSc in Data Science student`** 
+**`MSc in Data Science`** **`BSc in Statistic`** 
 
 Hi, I'm Vittorio! As a statistics graduate and data science student, I am passionate about data and I am eager to deepen my knowledge in areas such as Machine Learning and Artificial Intelligence, with a particular focus on Computer Vision. I am seeking roles such as data scientist or machine learning engineer to pursue this passion.
 ---
