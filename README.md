@@ -3,14 +3,14 @@
 # ✨ **Vittorio Haardt** ✨
 **`HyperAutomation Engineer`**
 
-`MSc in Data Science` `BSc in Statistics`
+`MSc in Data Science` | `BSc in Statistics`
 
 [![LinkedIn Badge](https://img.shields.io/badge/-VittorioHaardt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vittorio-haardt-4091211b3)](https://www.linkedin.com/in/vittorio-haardt-4091211b3)
 [![Gmail Badge](https://img.shields.io/badge/-vittoriohaardt@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vittoriohaardt@gmail.com)](mailto:vittoriohaardt@gmail.com)
 
 ---
 
-Hello! I'm Vittorio, a passionate **AI, Deep Learning, and Computer Vision** enthusiast with a solid foundation in **Statistics and Data Science**. I thrive on working on innovative projects that push the boundaries of technology.
+Hello! I'm Vittorio, a passionate **AI, Deep Learning, and Computer Vision** enthusiast with a solid foundation in **Statistics and Data Science**. I thrive on working on innovative projects.
 
 ---
 
@@ -40,4 +40,4 @@ Hello! I'm Vittorio, a passionate **AI, Deep Learning, and Computer Vision** ent
 
 ---
 
-Feel free to connect with me on LinkedIn or reach out via email. Let's collaborate and innovate together! 
+Feel free to connect with me on LinkedIn or reach out via email.
