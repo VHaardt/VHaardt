@@ -1,6 +1,6 @@
 <img src="https://github.com/VHaardt/VHaardt/blob/main/banner.png" alt="banner that say profile name">
 
-[![Linkedin Badge](https://img.shields.io/badge/-VittorioHaardt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vittorio-haardt-4091211b3)](www.linkedin.com/in/vittorio-haardt-4091211b3)
+[![Linkedin Badge](https://img.shields.io/badge/-VittorioHaardt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vittorio-haardt-4091211b3)](www.linkedin.com/in/vittorio-haardt)
 [![Gmail Badge](https://img.shields.io/badge/-vittoriohaardt@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vittoriohaardt@gmail.com)](mailto:vittoriohaardt@gmail.com)
 ---
 
