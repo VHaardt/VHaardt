@@ -1,7 +1,7 @@
 ![Profile Banner](https://github.com/VHaardt/VHaardt/blob/main/banner.png)
 
 # ✨ **Vittorio Haardt** ✨
-**`HyperAutomation Engineer`**
+**`AI and HyperAutomation Engineer`**
 
 `MSc in Data Science` | `BSc in Statistics`
 
@@ -14,11 +14,9 @@ Hello! I'm Vittorio, a passionate **AI, Deep Learning, and Computer Vision** ent
 
 ---
 
-## 🔥 **Current Work & Projects**
-- 🏢 **HyperAutomation Engineer @ Sprint Reply IT**
+## 🔥 **Current Position**
+- 🏢 **AI and HyperAutomation Engineer @ Sprint Reply IT**
   - Leveraging **Low-Code, RPA, and Generative AI** to streamline and automate complex business processes.
-- 📖 **Thesis on Shadow Removal**
-  - Developing advanced **re-illumination techniques** to enhance images affected by shadows, improving visual clarity and accuracy.
 
 ---
 
